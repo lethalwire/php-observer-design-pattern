@@ -1,6 +1,6 @@
 {
-  "name": "lethalwire/composer-starter",
-  "description": "A basic composer starter that uses the PSR-4 specification.",
+  "name": "lethalwire/php-observer-design-pattern",
+  "description": "A basic project that demonstrates the observer pattern in PHP.",
   "authors": [
     {
       "name": "CSTom",

@@ -1,2 +1,3 @@
-# composer-starter
-A basic composer starter that uses the PSR-4 specification.
+# Observer Design Pattern in PHP
+A basic project that demonstrates the observer pattern in PHP.
+
